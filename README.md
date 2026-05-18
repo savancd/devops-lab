@@ -22,6 +22,11 @@ Diagram will be here when Excalidraw is setup
 <h2 align="align">Components</h2>
 
 
+- [x] B Network and VM isolation
+- [z] C Network and security lab isolation
+- [x] VM - gateway for security lab
+- [x] iptables rules and isolation enforced
+
 - [] Network Zones (In Progress)
 - [] Monitoring Stack 
 - [] C!/CD pipeline
