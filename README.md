@@ -27,11 +27,13 @@ Diagram will be here when Excalidraw is setup
 - [x] VM - gateway for security lab
 - [x] iptables rules and isolation enforced
 
-- [] Network Zones (In Progress)
+- [x] Network Zones (In Progress)
 - [] Monitoring Stack 
 - [] C!/CD pipeline
 - [] Container 
-- [] Security Hardening
+- [x] Security Hardening
+- [x] UFW Firewall configured
+- [] Self Hosted VPN
 
 ## Documentation
 
