@@ -6,6 +6,8 @@ This repo is to complement the Home-Lab documentation. This devops will showcase
 
 <h2 align="center">Stack</h2>
 
+
+- WireGuard
 - KVM/QEMU
 - Incus
 - Ansible
@@ -26,17 +28,19 @@ Diagram will be here when Excalidraw is setup
 - [z] C Network and security lab isolation
 - [x] VM - gateway for security lab
 - [x] iptables rules and isolation enforced
-
+- [x] Security Hardening
+- [x] UFW Firewall configured
 - [x] Network Zones (In Progress)
+- [x] Gateway and VPN endpoint
+
+
 - [] Monitoring Stack 
 - [] C!/CD pipeline
 - [] Container 
-- [x] Security Hardening
-- [x] UFW Firewall configured
 - [] Self Hosted VPN
 
-## Documentation
+<h2 align="center"> Documentation</h2>
 
-Everything will be documented as it is built.   
+<p align="center">Everything will be documented as it is built.</p>
 
 
