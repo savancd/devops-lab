@@ -6,7 +6,6 @@ This repo is to complement the Home-Lab documentation. This devops will showcase
 
 <h2 align="center">Stack</h2>
 
-
 - WireGuard
 - KVM/QEMU
 - Incus
@@ -32,7 +31,6 @@ Diagram will be here when Excalidraw is setup
 - [x] UFW Firewall configured
 - [x] Network Zones (In Progress)
 - [x] Gateway and VPN endpoint
-
 
 - [] Monitoring Stack 
 - [] C!/CD pipeline
