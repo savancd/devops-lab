@@ -35,13 +35,18 @@ Diagram will be here when Excalidraw is setup
 - [x] Thunderbird, hardened
 - [x] Kill switch configured
 - [x] IPv6 disabled (no leaks)
+- [x] Updating internal documentation for the system | 30. May 2026 done
+- [x] Emails configured
+- [x] VM autostart enabled
+- [x] Self Hosted VPN
+- [x] Completelly sandboxed Thunderbird
+- [x] X-Forwarding for some GUI apps
 
 
-- [] Updating internal documentation for the system
+
 - [] Monitoring Stack 
 - [] C!/CD pipeline
 - [] Container 
-- [] Self Hosted VPN
 
 <h2 align="center"> Documentation</h2>
 
