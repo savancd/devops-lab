@@ -31,6 +31,7 @@ Diagram will be here when Excalidraw is setup
 - [x] UFW Firewall configured
 - [x] Network Zones (In Progress)
 - [x] Gateway and VPN endpoint
+- [] Updating internal documentation for the system
 
 - [] Monitoring Stack 
 - [] C!/CD pipeline
@@ -38,6 +39,8 @@ Diagram will be here when Excalidraw is setup
 - [] Self Hosted VPN
 
 <h2 align="center"> Documentation</h2>
+
+
 
 <p align="center">Everything will be documented as it is built.</p>
 
