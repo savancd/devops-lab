@@ -29,10 +29,15 @@ Diagram will be here when Excalidraw is setup
 - [x] iptables rules and isolation enforced
 - [x] Security Hardening
 - [x] UFW Firewall configured
-- [x] Network Zones (In Progress)
+- [x] Networks  (In Progress)
 - [x] Gateway and VPN endpoint
-- [] Updating internal documentation for the system
+- [x] Emails safe reading, X forwarding and accessing from bare metal
+- [x] Thunderbird, hardened
+- [x] Kill switch configured
+- [x] IPv6 disabled (no leaks)
 
+
+- [] Updating internal documentation for the system
 - [] Monitoring Stack 
 - [] C!/CD pipeline
 - [] Container 
