@@ -43,6 +43,9 @@ Diagram will be here when Excalidraw is setup
 - [x] X-Forwarding for some GUI apps
 - [x] Multiple virtual desktops configured  to separate different tasks or projects
 - [x] Configured shortcuts for managing environments and work environments
+- [x] Analiys disk created for VM
+- [x] Implemented more email accounts into system
+- [x] Documentation updated - personal documentaion (private)
 
 - [] Monitoring Stack 
 - [] C!/CD pipeline
