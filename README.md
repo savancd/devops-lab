@@ -36,13 +36,13 @@ Diagram will be here when Excalidraw is setup
 - [x] Kill switch configured
 - [x] IPv6 disabled (no leaks)
 - [x] Updating internal documentation for the system | 30. May 2026 done
-- [x] Emails configured
+- [x] 3 Emails configured and sandboxed
 - [x] VM autostart enabled
 - [x] Self Hosted VPN
 - [x] Completelly sandboxed Thunderbird
 - [x] X-Forwarding for some GUI apps
-
-
+- [x] Multiple virtual desktops configured  to separate different tasks or projects
+- [x] Configured shortcuts for managing environments and work environments
 
 - [] Monitoring Stack 
 - [] C!/CD pipeline
