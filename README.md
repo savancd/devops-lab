@@ -46,6 +46,9 @@ Diagram will be here when Excalidraw is setup
 - [x] Analiys disk created for VM
 - [x] Implemented more email accounts into system
 - [x] Documentation updated - personal documentaion (private)
+- [X] disposable browser and X forwarding
+- [x] clear snapshot created
+
 
 - [] Monitoring Stack 
 - [] C!/CD pipeline
