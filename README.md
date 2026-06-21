@@ -48,6 +48,7 @@ Diagram will be here when Excalidraw is setup
 - [x] Documentation updated - personal documentaion (private)
 - [X] disposable browser and X forwarding
 - [x] clear snapshot created
+- [x] Fixed issues with X forwarding and disposable browser
 
 
 - [] Monitoring Stack 
