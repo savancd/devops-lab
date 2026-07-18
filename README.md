@@ -49,6 +49,8 @@ Diagram will be here when Excalidraw is setup
 - [X] disposable browser and X forwarding
 - [x] clear snapshot created
 - [x] Fixed issues with X forwarding and disposable browser
+- [x] Improved security of bare metal
+- [x] All internet access, browsing going through VMs
 
 
 - [] Monitoring Stack 
