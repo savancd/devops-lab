@@ -61,7 +61,11 @@ Diagram will be here when Excalidraw is setup
 
 <p align="center">Everything will be documented as it is built.</p>
 
+
+
+
+
 <figure>
-    <img src="../img/nvim-custom-setup_v0.0.1" alt="Neovim custom setup v0.0.5" width="600px />
+    <img src="../img/nvim-custom-setup_v0.0.1.png" alt="Neovim custom setup v0.0.5" width="600px />
     <figcaption>Custom Neovim setup - v0.0.5</figcaption>
 </figure>
