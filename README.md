@@ -64,4 +64,5 @@ Diagram will be here when Excalidraw is setup
 ---
 
 <h2 align="center">Neovim setup v0.0.5</h2>
+
 ![Neovim custom setup v0.0.5](img/nvim-custom-setup_v0.0.1.png)
