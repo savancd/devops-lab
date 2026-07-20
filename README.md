@@ -1,7 +1,7 @@
 <h1 align="center">DevOps Lab</h1>
 
-This is self-hosted DevOps environment simulating cloud infrastructure on personal hardware.   
-This repo is to complement the Home-Lab documentation. This devops will showcase configs, zones, system design and what else exists.   
+This is self-hosted DevOps environment simulating cloud infrastructure on personal hardware.
+This repo is to complement the Home-Lab documentation. This devops will showcase configs, zones, system design and what else exists.
 
 
 <h2 align="center">Stack</h2>
@@ -24,7 +24,7 @@ Diagram will be here when Excalidraw is setup
 
 
 - [x] B Network and VM isolation
-- [z] C Network and security lab isolation
+- [x] C Network and security lab isolation
 - [x] VM - gateway for security lab
 - [x] iptables rules and isolation enforced
 - [x] Security Hardening
@@ -51,16 +51,17 @@ Diagram will be here when Excalidraw is setup
 - [x] Fixed issues with X forwarding and disposable browser
 - [x] Improved security of bare metal
 - [x] All internet access, browsing going through VMs
+- [x] V0.0.5 Custom Neovim setup finished
 
-
-- [] Monitoring Stack 
+- [] Monitoring Stack
 - [] C!/CD pipeline
-- [] Container 
+- [] Container
 
 <h2 align="center"> Documentation</h2>
 
-
-
 <p align="center">Everything will be documented as it is built.</p>
 
-
+<figure>
+    <img src="img/nvim-custom-setup_v0.0.1" alt="Neovim custom setup v0.0.5" width="600px />
+    <figcaption>Custom Neovim setup - v0.0.5</figcaption>
+</figure>
